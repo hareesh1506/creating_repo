@@ -1,2 +1,4 @@
-name : hareesh
-age  : 25
+name 		: 	hareesh
+age  		: 	25
+location	: 	bglr
+pin 		:	515133
